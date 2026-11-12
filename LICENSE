@@ -1,0 +1,37 @@
+Luma Card Craft — licensing scope
+Copyright 2026 myflww, except where upstream authors are identified.
+
+This is a source-available, noncommercial sharing project, not OSI-approved
+open source. The following scopes are separate:
+
+1. Original documentation, the new integrated Skill guidance, and artwork
+   previews under assets/showcase/ are licensed under Creative Commons
+   Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA-4.0),
+   to the extent the licensor holds the relevant rights.
+   Full text: licenses/CC-BY-NC-SA-4.0.txt
+   https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+2. New website implementation (index.html, site.css and site.js) is licensed
+   under PolyForm Noncommercial License 1.0.0.
+   Required Notice: Copyright 2026 myflww (https://github.com/myflww/luma-card-craft)
+   Full text: licenses/PolyForm-Noncommercial-1.0.0.md
+   https://polyformproject.org/licenses/noncommercial/1.0.0
+
+3. Copied RuiC Card Skill software and references retain their original MIT
+   license and HRuiCcc attribution. This project's noncommercial restrictions
+   do not revoke commercial rights already granted by MIT.
+   Full scope: skills/luma-card-craft/NOTICE.md
+   MIT text: skills/luma-card-craft/LICENSE
+
+4. Third-party dependencies retain their own licenses and notices.
+   See THIRD_PARTY_NOTICES.md and skills/luma-card-craft/licenses/.
+
+The Skill ZIP is an aggregate of separately licensed files; it does not
+convert MIT components into noncommercial components. Other files explicitly
+marked with a license follow that license. The root-level licensing map and
+manifest files are original documentation under CC BY-NC-SA-4.0.
+
+No third-party trademark, personality, reference-image, or other rights are
+granted by implication. AI assistance is disclosed; no guarantee is made
+that every generated pixel is subject to exclusive copyright. Commercial
+permission for the original noncommercial materials must be obtained separately.

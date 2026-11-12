@@ -1,0 +1,152 @@
+[
+  {
+    "id": "LM-B",
+    "edition": "LM-B@assembly-r03",
+    "name": "循光留名",
+    "character": "陆弥",
+    "theme": "蓝蔷薇·夜色回廊",
+    "motif": "细银藤蔓 · 蓝蔷薇",
+    "description": "边框延续画面的花藤，让人物回望与递花成为视觉焦点。",
+    "orientation": "portrait",
+    "front": {
+      "file": "assets/showcase/lm-b.webp",
+      "width": 800,
+      "height": 1200,
+      "sha256": "4ccaf8bb481cb388038a94d44f927fbe2034a56dafc851acceeccc1cd5fc4ded"
+    },
+    "back": {
+      "file": "assets/showcase/lm-b-back.webp",
+      "width": 800,
+      "height": 1200,
+      "sha256": "d1aaa7a29fe2f77c77c4518aa675c9fa2ca9b9824ff622493e92bb17e7762f59"
+    },
+    "previewPreparation": "complete illustration with inherent frame; resized WebP",
+    "creation": "AI-assisted artwork; human selection, art direction and craft integration",
+    "license": "CC-BY-NC-SA-4.0 to the extent rights are held"
+  },
+  {
+    "id": "DMY-X08",
+    "edition": "DMY-X08@image-v01-r01",
+    "name": "樱河逐灯",
+    "character": "端木嫣",
+    "theme": "樱河·逐灯",
+    "motif": "樱花暖金 · 河灯",
+    "description": "侧身放灯的动作与樱花纹样呼应，光线沿河面展开。",
+    "orientation": "portrait",
+    "front": {
+      "file": "assets/showcase/dmy-x08.webp",
+      "width": 800,
+      "height": 1200,
+      "sha256": "169931fc29efc54c9b0e3a65fb75f55f5670818fa51602c05d2d01ac4d145e53"
+    },
+    "back": {
+      "file": "assets/showcase/dmy-x08-back.webp",
+      "width": 800,
+      "height": 1200,
+      "sha256": "b7e1382e9246063b7c47749dad5c19adb8b7685080052ceda3b4d8def6982af8"
+    },
+    "previewPreparation": "approved frame composited over unchanged illustration; resized WebP",
+    "creation": "AI-assisted artwork; human selection, art direction and craft integration",
+    "license": "CC-BY-NC-SA-4.0 to the extent rights are held"
+  },
+  {
+    "id": "JYN-X07",
+    "edition": "JYN-X07@image-v01-r01",
+    "name": "深海信使",
+    "character": "鲸鱼娘",
+    "theme": "深海·研究台",
+    "motif": "海蓝棱晶 · 珊瑚",
+    "description": "手部与珊瑚的互动建立叙事，晶体与海洋纹样构成边缘节奏。",
+    "orientation": "portrait",
+    "front": {
+      "file": "assets/showcase/jyn-x07.webp",
+      "width": 800,
+      "height": 1200,
+      "sha256": "285defd1262bd46960de696448991a7329d897ec97ca0a214ee266aae28fb717"
+    },
+    "back": {
+      "file": "assets/showcase/jyn-x07-back.webp",
+      "width": 800,
+      "height": 1200,
+      "sha256": "70454804202164cd5e5d54fd9c2ac0c8db69179ed495d04d6113ded790376c44"
+    },
+    "previewPreparation": "approved frame composited over unchanged illustration; resized WebP",
+    "creation": "AI-assisted artwork; human selection, art direction and craft integration",
+    "license": "CC-BY-NC-SA-4.0 to the extent rights are held"
+  },
+  {
+    "id": "BSM-X07",
+    "edition": "BSM-X07@image-v01-r01",
+    "name": "霜糖晨味",
+    "character": "白霜命",
+    "theme": "雪晨·青花茶会",
+    "motif": "青花瓷 · 莓果",
+    "description": "从站姿展示转向生活片刻，以雪色、瓷器与红莓组织色彩。",
+    "orientation": "portrait",
+    "front": {
+      "file": "assets/showcase/bsm-x07.webp",
+      "width": 800,
+      "height": 1200,
+      "sha256": "b341ab99c85a0f0f33d8ceb09db029bd164f54e20bf00b9ee3199ea1f039dadc"
+    },
+    "back": {
+      "file": "assets/showcase/bsm-x07-back.webp",
+      "width": 800,
+      "height": 1200,
+      "sha256": "7e2dbe5016d12a22a55061bcdebce5e50853c772e3afdb30dd42bc7f1ac19e12"
+    },
+    "previewPreparation": "approved frame composited over unchanged illustration; resized WebP",
+    "creation": "AI-assisted artwork; human selection, art direction and craft integration",
+    "license": "CC-BY-NC-SA-4.0 to the extent rights are held"
+  },
+  {
+    "id": "LR-01",
+    "edition": "LR-01@foil-v01-r01",
+    "name": "蔷薇回廊 · 无眠",
+    "character": "原创角色",
+    "theme": "蓝蔷薇·水镜回廊",
+    "motif": "水镜长廊 · 蓝蔷薇",
+    "description": "横向空间留给建筑与倒影，细金卷草围合完整景深。",
+    "orientation": "landscape",
+    "front": {
+      "file": "assets/showcase/lr-01.webp",
+      "width": 1200,
+      "height": 800,
+      "sha256": "0bd1694528d38e93aff6a57e487677cfa033c3284c56bdbb378118dd9f42303e"
+    },
+    "back": {
+      "file": "assets/showcase/lr-01-back.webp",
+      "width": 1200,
+      "height": 800,
+      "sha256": "a309cd01d803456b2410f2097345b2b90506122210c31480080789d10bd847b7"
+    },
+    "previewPreparation": "complete illustration with inherent frame; resized WebP",
+    "creation": "AI-assisted artwork; human selection, art direction and craft integration",
+    "license": "CC-BY-NC-SA-4.0 to the extent rights are held"
+  },
+  {
+    "id": "RH-05",
+    "edition": "RH-05@layer-v02-r01",
+    "name": "雨后空庭",
+    "character": "空庭（无人物）",
+    "theme": "雨后·无人空庭",
+    "motif": "铜灯雨庭 · 书与茶",
+    "description": "人物退场，让灯、书、杯与雨后反光讲述安静的故事。",
+    "orientation": "landscape",
+    "front": {
+      "file": "assets/showcase/rh-05.webp",
+      "width": 1200,
+      "height": 800,
+      "sha256": "4837642be61d39db1e3a4f1a22470433d7dd43bfce308a1a96975573c1fb25a9"
+    },
+    "back": {
+      "file": "assets/showcase/rh-05-back.webp",
+      "width": 1200,
+      "height": 800,
+      "sha256": "a309cd01d803456b2410f2097345b2b90506122210c31480080789d10bd847b7"
+    },
+    "previewPreparation": "complete illustration with inherent frame; resized WebP",
+    "creation": "AI-assisted artwork; human selection, art direction and craft integration",
+    "license": "CC-BY-NC-SA-4.0 to the extent rights are held"
+  }
+]

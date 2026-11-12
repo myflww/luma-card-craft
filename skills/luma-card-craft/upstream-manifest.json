@@ -1,0 +1,150 @@
+{
+  "upstream": "RuiC Card Skill",
+  "upstreamAuthor": "HRuiCcc",
+  "upstreamLicense": "MIT",
+  "copiedTextOnly": true,
+  "generatedArtworkIncluded": false,
+  "sourceFiles": [
+    {
+      "path": "LICENSE",
+      "sourceSha256": "5b008ac094575a28402ea10b7edbe750772be52868c05d29b8fbe2ee75205ec2",
+      "bytes": 1210,
+      "changed": false
+    },
+    {
+      "path": "scripts/build_card.py",
+      "sourceSha256": "9797b6dd27fe658f2a70a6c2ede26209d752f0dab887983ca2ac698d1d45f9cd",
+      "bytes": 22449,
+      "changed": false
+    },
+    {
+      "path": "scripts/ensure_blender.py",
+      "sourceSha256": "fd99bc5be926c7e3bac2f9ac8e4bbc343cdc8099ad0ef1ede1d917fc7dfabb54",
+      "bytes": 5146,
+      "changed": false
+    },
+    {
+      "path": "scripts/export_web.py",
+      "sourceSha256": "ef2585ca33d17ee06dc43a118394f12d68897d525b1b03610a22c3c7193d8d92",
+      "bytes": 1672,
+      "changed": false
+    },
+    {
+      "path": "scripts/generate_typography.py",
+      "sourceSha256": "41f340efc13770c615ad6ec7dd9b0d785ebd9e51483fcea48962b24d8779f3f4",
+      "bytes": 2081,
+      "changed": false
+    },
+    {
+      "path": "scripts/package_skill.py",
+      "sourceSha256": "0cb67ed442327c3549eb33b45c3baa6e96875ebd50191e3ad90c9a17315a8619",
+      "bytes": 2975,
+      "changed": false
+    },
+    {
+      "path": "scripts/run_pipeline.py",
+      "sourceSha256": "5a8e5fb4027077c10dac31373932a96fec42b5ca9301fb0cab6b3daa19848fb6",
+      "bytes": 3400,
+      "changed": false
+    },
+    {
+      "path": "scripts/validate_assets.py",
+      "sourceSha256": "8f802e4b333c8db2df168a960141828d905cc8a77eae7c75a635895bd33c69d2",
+      "bytes": 1655,
+      "changed": false
+    },
+    {
+      "path": "assets/web-template/app.bundle.js",
+      "sourceSha256": "29afd05e7b4d18f9ff983b6877a7c3880dbb18f7fba501c8b923ae91ffe5ab00",
+      "bytes": 1032683,
+      "changed": false
+    },
+    {
+      "path": "assets/web-template/app.js",
+      "sourceSha256": "026449b1b9f0e0cadcce91a85493a451f294bed7c0dcff499a458abfe388880d",
+      "bytes": 32754,
+      "changed": false
+    },
+    {
+      "path": "assets/web-template/bundle.sh",
+      "sourceSha256": "e5cbb1c93b8e7b4a41dc64ea917efc95f9144eb2be595386c483ea12cfe23f1d",
+      "bytes": 325,
+      "changed": false
+    },
+    {
+      "path": "assets/web-template/card-config.json",
+      "sourceSha256": "135a07051a844c31bd904d530cd7eafec20d8d3a617b70dc53685571587ce623",
+      "bytes": 651,
+      "changed": false
+    },
+    {
+      "path": "assets/web-template/icons.data.js",
+      "sourceSha256": "5dbb9392b2a8cfaad6ee29a4947ad349ba60b5636c041794540d01a58f66ff96",
+      "bytes": 5720,
+      "changed": false
+    },
+    {
+      "path": "assets/web-template/index.html",
+      "sourceSha256": "bb79c8e6c87b61197df504bf343622d727308bca808d8e89f602e23d67cb34fe",
+      "bytes": 7310,
+      "changed": false
+    },
+    {
+      "path": "assets/web-template/package-lock.json",
+      "sourceSha256": "a160814faa44b26d72b4865ba99fe89b7cab9c756c3442f36e719ee4e6e99cdc",
+      "bytes": 560,
+      "changed": false
+    },
+    {
+      "path": "assets/web-template/package.json",
+      "sourceSha256": "0f629e6a1bdbff51ac14ebd4f684fa144692df73ce51fc5bff994fdf709d5f0b",
+      "bytes": 154,
+      "changed": false
+    },
+    {
+      "path": "assets/web-template/server.mjs",
+      "sourceSha256": "a0d974bc9a7d44264ecf190ff5388fbbc3d89afeb1155141b2f8432c5e3b7f09",
+      "bytes": 1174,
+      "changed": false
+    },
+    {
+      "path": "assets/web-template/style.css",
+      "sourceSha256": "ee7fc8eaa5c3d3c4c92b57b218fedc919ed0d55ba5ebbeed5de7175d5052a001",
+      "bytes": 42462,
+      "changed": true,
+      "change": "Removed unidentified embedded WOFF2 font; retained CSS system-font fallbacks",
+      "publishedBytes": 14487,
+      "publishedSha256": "904f753777464b34e8472e8c6a1dc3afee796b1a3b63c894e47dd82ff0dedcb6"
+    },
+    {
+      "path": "references/art-direction.md",
+      "sourceSha256": "cef841a67bad0df99ba230055137dc19c541e6bc82004a96770a7ffd0f19eb58",
+      "bytes": 2342,
+      "changed": false
+    },
+    {
+      "path": "references/illustration-quality.md",
+      "sourceSha256": "fb0ea67174ba122e7b563e78940212f20722c4791858062361e4952b4777fb05",
+      "bytes": 10596,
+      "changed": false
+    },
+    {
+      "path": "references/verification.md",
+      "sourceSha256": "08e2f367169adcf8d9cda037f2e4e242bb210f787fecb2af34188d593cb47c50",
+      "bytes": 2360,
+      "changed": false
+    },
+    {
+      "path": "references/config.example.json",
+      "sourceSha256": "135a07051a844c31bd904d530cd7eafec20d8d3a617b70dc53685571587ce623",
+      "bytes": 651,
+      "changed": false
+    }
+  ],
+  "licenseSources": {
+    "THREE-LICENSE.txt": "https://raw.githubusercontent.com/mrdoob/three.js/r180/LICENSE",
+    "LUCIDE-LICENSE.txt": "https://raw.githubusercontent.com/lucide-icons/lucide/0.468.0/LICENSE",
+    "FEATHER-LICENSE.txt": "https://raw.githubusercontent.com/feathericons/feather/main/LICENSE"
+  },
+  "localModification": "Removed the unidentified embedded CSS font only. No card-generation or rendering algorithm has been changed."
+}

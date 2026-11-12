@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Luma 卡牌工艺手册：AI 辅助创作、精细主题边框、视角镭射与真实深度。附 Codex Skill 和六张完成卡牌展示。">
+  <meta name="theme-color" content="#111219">
+  <title>Luma Card Atelier · 卡牌工艺手册</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="site.css">
+  <script src="site.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#gallery">跳到卡牌展示</a>
+  <header class="nav wrap"><a class="brand" href="#">✦ <span>LUMA <small>CARD ATELIER</small></span></a><nav aria-label="主导航"><a href="#gallery">作品</a><a href="#craft">工艺</a><a href="#skill">Skill</a><a href="#license">许可</a><a class="repo" href="https://github.com/myflww/luma-card-craft">GitHub ↗</a></nav></header>
+  <main>
+    <section class="hero wrap">
+      <div class="hero-copy"><p class="eyebrow">THE ART OF COLLECTIBLE CARDS / 01</p><h1>让一张画，<br>拥有被<span>收藏</span>的理由。</h1><p class="intro">从一个有故事的眼神，到沿边缘生长的花藤。<br>把叙事、镭射与深度，做成恰如其分的工艺。</p><div class="actions"><a class="button primary" href="#gallery">走进作品集 <span>↗</span></a><a class="button" href="#skill">获取制作 Skill ↓</a></div><div class="hero-foot"><span>6 张完成作品</span><span>Blender × Three.js × Codex</span></div></div>
+      <div class="hero-art" aria-label="精选卡牌：循光留名与樱河逐灯"><div class="orb"></div><figure class="hero-card rear"><img src="assets/showcase/dmy-x08.webp" alt="樱河逐灯：粉发角色侧身在樱花河岸放灯" width="800" height="1200"></figure><figure class="hero-card lead"><img src="assets/showcase/lm-b.webp" alt="循光留名：蓝蔷薇回廊里的回身递花" width="800" height="1200"></figure><span class="art-label">SELECTED WORKS<br><b>叙事，是最先完成的一层。</b></span></div>
+    </section>
+    <div class="ribbon"><div class="wrap"><span>AI 辅助创作 · 人工筛选与工艺整合</span><span>原创内容非商业共享 / NONCOMMERCIAL</span></div></div>
+    <section id="gallery" class="section wrap"><div class="section-head"><div><p class="eyebrow">01 / SELECTED CARDS</p><h2>六个瞬间，各有自己的世界。</h2></div><p>保留完整画面与原有比例。<br>点击放大，可查看对应卡背。</p></div><div id="cards" class="gallery" aria-live="polite"><p>正在布置作品……</p></div><noscript><p>请启用 JavaScript 浏览交互画廊，或前往 <a href="https://github.com/myflww/luma-card-craft#作品展示">GitHub 图集</a>。</p></noscript><p class="caption">展示使用已完成作品的轻量预览。网页中的倾斜与反光是整卡展示交互，不代表人物几何浮雕；制作完整镭射／分层场景请使用下方 Skill。</p></section>
+    <section id="craft" class="section craft"><div class="wrap"><div class="section-head"><div><p class="eyebrow">02 / THE CRAFT</p><h2>好看的细节，有清楚的来处。</h2></div><a class="text-link" href="https://github.com/myflww/luma-card-craft/blob/main/docs/production-guide.zh-CN.md">阅读完整制作手册 ↗</a></div><div class="principles"><article><span>Ⅰ</span><h3>先发生故事，再添加装饰</h3><p>给角色视线、行动与情绪。侧脸、背影、低头和安静的空庭，都比重复的正脸微笑更有记忆。</p></article><article><span>Ⅱ</span><h3>边框从画面里生长</h3><p>蔷薇、珊瑚、青花瓷与雨灯各有语言。用连续雕纹和材料细节建立精致度，把主要面积留给画面。</p></article><article><span>Ⅲ</span><h3>让材料回应观察角度</h3><p>镭射跟随视角，深度来自真实的层与网格。保护肤色、发丝和镂空，让光帮助阅读，而非盖住原画。</p></article></div><div class="workflow"><span>场景简报</span><i>→</i><span>插画与审美</span><i>→</i><span>主题边框</span><i>→</i><span>Alpha / 深度</span><i>→</i><span>材质与交互</span><i>→</i><span>实际渲染验收</span></div></div></section>
+    <section id="skill" class="section wrap skill"><div><p class="eyebrow">03 / MAKE YOUR OWN</p><h2>把经验，带回你的工坊。</h2><p class="intro">可安装的 Codex Skill，包含 Blender 场景、Three.js 查看器、资源检查工具与制作参考。沿用 RuiC 的 MIT 流水线，再加入这批卡片中总结出的审美与质量判断。</p><div class="actions"><a class="button primary" href="dist/luma-card-craft-skill.zip" download>下载 Skill ZIP ↓</a><a class="button" href="https://github.com/myflww/luma-card-craft/blob/main/docs/installation.zh-CN.md">安装与使用 ↗</a></div><p class="caption">提供可编辑代码与指南；不附 Luma 私有应用源码、模型服务或自动生成额度。具体效果仍需制作资源并逐张检查。</p></div><div class="terminal"><div class="terminal-top"><span>● ● ●</span> YOUR NEXT CARD</div><code>~/.codex/skills/<b>luma-card-craft</b>/</code><p>“用 $luma-card-craft 制作一张<br>海蓝珊瑚主题的收藏卡。<br>先设计动作和镜头，<br>边框细而精，镭射随视角变化。”</p><a class="text-link" href="https://github.com/myflww/luma-card-craft/tree/main/skills/luma-card-craft">查看完整 Skill 源码 ↗</a></div></section>
+    <section id="license" class="section wrap license"><p class="eyebrow">04 / SHARE WITH CARE</p><h2>公开分享经验，保留作品的边界。</h2><div class="license-grid"><div><h3>新教程与卡图</h3><p>CC BY-NC-SA 4.0：署名、非商业使用、相同方式共享；仅在发布者持有权利的范围内授权。</p></div><div><h3>新增展示代码</h3><p>PolyForm Noncommercial 1.0.0。允许许可范围内的学习、修改与非商业使用，商业用途不在本次授权内。</p></div><div><h3>上游与第三方</h3><p>RuiC / HRuiCcc 的代码保留 MIT；Three.js、图标等保留各自原许可，不能用本项目的禁商用要求改写它们。</p></div></div><p class="caption">本项目属于“源码公开、非商业共享”，不是 OSI 定义的开源软件。AI 辅助作品不意味着每个像素均具排他版权，也不授权第三方商标、肖像或参考素材。详见 <a href="https://github.com/myflww/luma-card-craft/blob/main/LICENSE">许可范围</a> 与 <a href="https://github.com/myflww/luma-card-craft/blob/main/THIRD_PARTY_NOTICES.md">第三方说明</a>。</p></section>
+  </main>
+  <footer class="wrap"><a class="brand" href="#">✦ LUMA</a><p>A small atelier for stories worth collecting.<br>© 2026 myflww · <a href="https://github.com/myflww/luma-card-craft">GitHub</a> · <a href="https://github.com/myflww/luma-card-craft/blob/main/README.en.md">English</a></p><a href="#">返回顶部 ↑</a></footer>
+  <dialog id="viewer" aria-labelledby="viewer-name"><div class="viewer-top"><div><p id="viewer-edition" class="eyebrow"></p><h2 id="viewer-name"></h2></div><button id="close" class="icon-button" aria-label="关闭卡片预览">×</button></div><div class="viewer-stage"><img id="viewer-image" alt=""></div><div class="viewer-controls"><button id="flip" class="button">查看卡背 ↻</button><label><input type="checkbox" id="finish" checked> 展示反光</label><span id="side-label">正面</span></div><p class="caption">移动指针可轻微倾斜整张卡片。原画预览与对应卡背均保留完整比例。</p></dialog>
+</body>
+</html>

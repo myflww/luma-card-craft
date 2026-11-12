@@ -1,0 +1,34 @@
+{
+  "schema": "PublicCardSkillPackageAuditV1",
+  "at": "2026-11-12T03:31:17.218661+00:00",
+  "skill": "skills/luma-card-craft",
+  "textFileCount": 34,
+  "textBytes": 1197766,
+  "unchangedUpstreamTextFiles": 21,
+  "modifiedUpstreamTextFiles": 1,
+  "modification": "Remove unidentified embedded CSS font; preserve system-font fallback",
+  "upstreamCodeLicense": "MIT",
+  "newGuidanceLicense": "CC-BY-NC-SA-4.0",
+  "thirdPartyLicenses": [
+    "Three.js r180 MIT",
+    "Lucide 0.468.0 ISC",
+    "Feather MIT"
+  ],
+  "pythonSyntaxFiles": 7,
+  "skillMetadataValid": true,
+  "agentMetadataValid": true,
+  "privacyPatternFindings": [],
+  "textOnlyArchiveAuditPassed": true,
+  "archive": {
+    "path": "dist/luma-card-craft-skill.zip",
+    "bytes": 263052,
+    "sha256": "7f7dd9ae3fde2e4b5c86a9ff25122eda6a5b5b26f09252ea8539ad01fdb01f36"
+  },
+  "checksNotPerformed": [
+    "Blender installation/download",
+    "new artwork generation",
+    "Blender render/export execution",
+    "WebGL/native application acceptance"
+  ],
+  "pipelineBoundary": "Four-layer illustrated/text baseline; not an automatic semantic-depth or closed-character sculpting pipeline"
+}
